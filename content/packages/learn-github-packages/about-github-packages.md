@@ -22,7 +22,7 @@ You can integrate {% data variables.product.prodname_registry %} with {% data va
 
 {% data variables.product.prodname_registry %} offers different package registries for commonly used packages, such as for Node, RubyGems, Apache Maven, Gradle, and Nuget.
 
-<!--This diagram excludes ghcr.io since it's not released for GHES yet.-->
+<!---This diagram excludes ghcr.io since it's not released for GHES yet.-->
 {% if currentVersion ver_gt "enterprise-server@2.21" %}
 
 ![Diagram showing the GitHub Packages hosting urls for npm, RubyGems, Apache Maven, Gradle, Nuget, and Docker](/assets/images/help/package-registry/ghes-packages-diagram.png)
