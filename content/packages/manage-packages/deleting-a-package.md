@@ -7,8 +7,8 @@ redirect_from:
   - /packages/publishing-and-managing-packages/deleting-a-package
 versions:
   free-pro-team: '*'
-  enterprise-server: '>=2.22'
----
+  enterprise-servers: '>=2.22'
+---enterprise-servers:  '>=2.22
 
 {% data reusables.package_registry.packages-ghes-release-stage %}
 
