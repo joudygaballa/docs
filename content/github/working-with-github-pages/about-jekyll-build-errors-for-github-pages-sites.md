@@ -54,6 +54,6 @@ You can configure a third-party service, such as [Travis CI](https://travis-ci.o
   language: ruby
   rvm:
     - 2.3
-  script: "bundle exec jekyll build"
+ 3 script: "bundle exec jekyll build"
   ```
 3. You may need to activate your repository with the third-party testing service. For more information, see your testing service's documentation.
