@@ -11,7 +11,7 @@ versions:
 ---
 
 
-### Table of Contents
+### Table of Contents and ideas 
 
 {% topic_link_in_list /creating-and-editing-commits %}
     {% link_in_list /about-commits %}
