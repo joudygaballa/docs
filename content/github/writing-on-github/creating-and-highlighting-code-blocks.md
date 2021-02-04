@@ -9,7 +9,7 @@ versions:
   github-ae: '*'
 ---
 
-### Fenced code blocks
+### #Fenced code blocks
 
 You can create fenced code blocks by placing triple backticks <code>\`\`\`</code> before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.
 
