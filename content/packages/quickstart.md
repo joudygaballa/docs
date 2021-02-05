@@ -98,7 +98,7 @@ Packages are published at the repository level. You can see all the packages in 
 
 Now that you've published the package, you'll want to use it as a dependency across your projects. For more information, see "[Configuring npm for use with {% data variables.product.prodname_registry %}](/packages/guides/configuring-npm-for-use-with-github-packages#installing-a-package)." 
 
-### Next steps
+####Next steps
 
 The basic workflow you just added runs any time a new release is created in your repository. But, this is only the beginning of what you can do with {% data variables.product.prodname_registry %}. You can publish your package to multiple registries with a single workflow, trigger the workflow to run on different events such as a merged pull request, manage containers, and more.
 
