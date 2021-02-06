@@ -22,7 +22,7 @@ To join {% data variables.product.prodname_sponsors %} as an organization, see "
 
 If you have a bank account in a supported region, {% data variables.product.prodname_dotcom %} will review your application within two weeks.
 
-### Completing your sponsored developer profile
+## Completing your sponsored developer profile
 
 After {% data variables.product.prodname_dotcom %} reviews your application, you can set up your sponsored developer profile so that people can start sponsoring you.
 
