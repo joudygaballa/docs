@@ -7,7 +7,7 @@ versions:
   enterprise-server: '>=2.22'
 ---
 
-### Introduction
+#### Introduction
 
 You only need an existing {% data variables.product.prodname_dotcom %} repository to publish a package to {% data variables.product.prodname_registry %}. In this guide, you'll create a {% data variables.product.prodname_actions %} workflow to test your code and then publish it to {% data variables.product.prodname_registry %}. Feel free to create a new repository for this Quickstart. You can use it to test this and future {% data variables.product.prodname_actions %} workflows.
 
